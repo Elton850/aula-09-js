@@ -1,0 +1,21 @@
+/* .titulo_principal{
+    color: rgba(0, 0, 255, 0.744);
+    text-decoration: underline;
+    font-size: 48px;
+}
+
+.titulo_secundario{
+    color: rgb(255, 0, 0);
+    font-size: 36px;
+    font-style: italic;
+}
+
+.titulo_terciario{
+    color: gray;
+    font-size: 24px;
+} */
+
+.img{
+    max-width: 320px;
+    border: 2px solid black;
+}
